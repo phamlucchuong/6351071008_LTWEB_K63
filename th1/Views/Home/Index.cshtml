@@ -3,7 +3,11 @@
     Layout = "~/Views/_LayoutPage.cshtml";
 }
 
-@*<button class="btn btn-primary" onclick="location.href='@Url.Action("HangHoa", "Home", new { id = 1 })'">Xem Sách Chủ Đề Khoa Học</button>*@
+<button class="btn btn-primary" onclick="location.href='@Url.Action("HangHoa", "Home", new { id = 1 })'">Xem Sách Chủ Đề Khoa Học</button>
+<button class="btn btn-primary" onclick="location.href='@Url.Action("HangHoa", "Home", new { id = 2 })'">Xem Sách Chủ Đề văn Học</button>
+<button class="btn btn-primary" onclick="location.href='@Url.Action("HangHoa", "Home", new { id = 3 })'">Xem Sách Chủ Đề tin Học</button>
+<button class="btn btn-primary" onclick="location.href='@Url.Action("HangHoa", "Home", new { id = 4 })'">Xem Sách Chủ Đề lịch sử</button>
+<button class="btn btn-primary" onclick="location.href='@Url.Action("HangHoa", "Home", new { id = 5 })'">Xem Sách Chủ Đề tâm ly Học</button>
 
 <div class="book-list">
     @foreach (var book in Model)

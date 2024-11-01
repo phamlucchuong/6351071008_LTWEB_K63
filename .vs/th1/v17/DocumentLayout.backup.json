@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|solutionrelative:th1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|c:\\users\\admin\\onedrive\\documents\\dotnet\\web\\th1\\th1\\views\\home\\hanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\dotnet\\web\\th1\\th1\\views\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|solutionrelative:th1\\views\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\dotnet\\web\\th1\\th1\\views\\home\\hanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|solutionrelative:th1\\views\\home\\hanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -15,11 +19,7 @@
       "RelativeMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|solutionrelative:th1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|c:\\users\\admin\\onedrive\\documents\\dotnet\\web\\th1\\th1\\views\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|solutionrelative:th1\\views\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|c:\\users\\admin\\onedrive\\documents\\dotnet\\web\\th1\\th1\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\dotnet\\web\\th1\\th1\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A1E8B724-6D84-4F79-B8E4-D9269200B635}|th1\\th1.csproj|solutionrelative:th1\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -42,26 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_LayoutPage.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\dotnet\\web\\th1\\th1\\Views\\_LayoutPage.cshtml",
               "RelativeDocumentMoniker": "th1\\Views\\_LayoutPage.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\dotnet\\web\\th1\\th1\\Views\\_LayoutPage.cshtml",
-              "RelativeToolTip": "th1\\Views\\_LayoutPage.cshtml",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\dotnet\\web\\th1\\th1\\Views\\_LayoutPage.cshtml*",
+              "RelativeToolTip": "th1\\Views\\_LayoutPage.cshtml*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T10:11:05.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HangHoa.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\dotnet\\web\\th1\\th1\\Views\\Home\\HangHoa.cshtml",
               "RelativeDocumentMoniker": "th1\\Views\\Home\\HangHoa.cshtml",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\dotnet\\web\\th1\\th1\\Views\\Home\\HangHoa.cshtml",
               "RelativeToolTip": "th1\\Views\\Home\\HangHoa.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T09:59:56.501Z",
               "EditorCaption": ""
@@ -74,14 +74,14 @@
               "RelativeDocumentMoniker": "th1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\dotnet\\web\\th1\\th1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "th1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T09:54:13.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\dotnet\\web\\th1\\th1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "th1\\Controllers\\HomeController.cs",
@@ -89,8 +89,7 @@
               "RelativeToolTip": "th1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T07:26:20.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T07:26:20.163Z"
             },
             {
               "$type": "Document",
@@ -102,8 +101,7 @@
               "RelativeToolTip": "th1\\Content\\Css\\Style.css",
               "ViewState": "AgIAAO4BAAAAAAAAAAAAAPsBAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-01T09:41:42.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T09:41:42.099Z"
             }
           ]
         }
